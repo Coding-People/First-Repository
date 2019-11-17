@@ -1,2 +1,2 @@
-# First-Repository
-Project 1
+# Ideas
+
